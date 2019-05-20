@@ -1,0 +1,6 @@
+framework module Pods_ExKingsoftOfficeSDK_Example {
+  umbrella header "Pods-ExKingsoftOfficeSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

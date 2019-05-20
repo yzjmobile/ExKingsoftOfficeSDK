@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ExKingsoftOfficeSDK_Example' do
+  pod 'ExKingsoftOfficeSDK', :path => '../'
+
+  target 'ExKingsoftOfficeSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

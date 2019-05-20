@@ -1,0 +1,6 @@
+framework module ExKingsoftOfficeSDK {
+  umbrella header "ExKingsoftOfficeSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

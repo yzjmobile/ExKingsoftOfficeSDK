@@ -1,0 +1,28 @@
+{
+  "name": "ExKingsoftOfficeSDK",
+  "version": "0.1.0",
+  "summary": "A short description of ExKingsoftOfficeSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/quding/ExKingsoftOfficeSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "quding": "ding_qu@kingdee.com"
+  },
+  "source": {
+    "git": "https://github.com/quding/ExKingsoftOfficeSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ExKingsoftOfficeSDK/Classes/**/*",
+  "vendored_libraries": "ExKingsoftOfficeSDK/Assets/libKingsoftOfficeSDK.a",
+  "resource_bundles": {
+    "ExKingsoftOfficeSDK": [
+      "ExKingsoftOfficeSDK/Assets/KWOfficeResouresFiles"
+    ]
+  }
+}

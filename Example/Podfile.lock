@@ -1,0 +1,16 @@
+PODS:
+  - ExKingsoftOfficeSDK (0.1.0)
+
+DEPENDENCIES:
+  - ExKingsoftOfficeSDK (from `../`)
+
+EXTERNAL SOURCES:
+  ExKingsoftOfficeSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExKingsoftOfficeSDK: d2a5d1fb0f10f60b6acdc10a9538dd8c1ee500eb
+
+PODFILE CHECKSUM: b566f8d098a067c6ebea401d204d5844821f9c8d
+
+COCOAPODS: 1.5.3
